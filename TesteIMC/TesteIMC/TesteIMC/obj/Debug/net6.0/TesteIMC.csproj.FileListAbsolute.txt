@@ -1,0 +1,12 @@
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.deps.json
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.dll
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.pdb
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.AssemblyReference.cache
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfoInputs.cache
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfo.cs
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.CoreCompileInputs.cache
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.dll
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\refint\TesteIMC.dll
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.pdb
+C:\Users\jose1\Documents\UC15 Senai\Projeto_teste\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\ref\TesteIMC.dll
